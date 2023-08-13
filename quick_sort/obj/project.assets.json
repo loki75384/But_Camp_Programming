@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\учеба\\butcamp\\quick_sort\\quick_sort.csproj",
+      "projectUniqueName": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\учеба\\butcamp\\But_Camp_Programming\\quick_sort\\quick_sort.csproj",
       "projectName": "quick_sort",
-      "projectPath": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\учеба\\butcamp\\quick_sort\\quick_sort.csproj",
+      "projectPath": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\учеба\\butcamp\\But_Camp_Programming\\quick_sort\\quick_sort.csproj",
       "packagesPath": "C:\\Users\\svetl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\учеба\\butcamp\\quick_sort\\obj\\",
+      "outputPath": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\учеба\\butcamp\\But_Camp_Programming\\quick_sort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svetl\\AppData\\Roaming\\NuGet\\NuGet.Config"
