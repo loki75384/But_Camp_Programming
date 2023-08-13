@@ -1,0 +1,15 @@
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\quick_sort.csproj.AssemblyReference.cache
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\quick_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\quick_sort.AssemblyInfoInputs.cache
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\quick_sort.AssemblyInfo.cs
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\quick_sort.csproj.CoreCompileInputs.cache
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\bin\Debug\net6.0\quick_sort.exe
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\bin\Debug\net6.0\quick_sort.deps.json
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\bin\Debug\net6.0\quick_sort.runtimeconfig.json
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\bin\Debug\net6.0\quick_sort.dll
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\bin\Debug\net6.0\quick_sort.pdb
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\quick_sort.dll
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\refint\quick_sort.dll
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\quick_sort.pdb
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\quick_sort.genruntimeconfig.cache
+C:\Users\svetl\OneDrive\Рабочий стол\учеба\butcamp\quick_sort\obj\Debug\net6.0\ref\quick_sort.dll
